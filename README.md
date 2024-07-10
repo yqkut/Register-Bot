@@ -6,8 +6,8 @@
 - Botun çalışması için gerekli kütüphaneyi ve package'ı yüklemek için bu iki komutu terminale girin:
 
 `npm init -y`
-`npm install discord.js`
+`npm install dotenv discord.js axios`
 
 Ve sonra `node .\index.js` komutunu girerek botu çalıştırın.
 
-Sonra hangi kanala [kayıt ol](https://prnt.sc/bkh9cRQB7ifV) mesajını atmak istiyorsanız **!setup** komutunu kullanın.
+Ve işte bu kadar! Artık botu kullanmaya başlayabilirsiniz. (Destek amaçlı repoyu yıldızlarsanız çok sevinirim <3)
